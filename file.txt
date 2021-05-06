@@ -1,1 +1,2 @@
 test file
+\n this text should appear
